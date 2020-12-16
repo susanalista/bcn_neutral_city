@@ -1,6 +1,6 @@
 # BCN Neutral City
 
-## *Pollution and cruise boats during high season (April to October) before and after Covid-19*
+## *Pollution and cruise ships during high season (April to October) before and after Covid-19*
 
 ![Cruise Ship](https://3.bp.blogspot.com/-JwPjW6adyA8/TpV6iUW3MxI/AAAAAAAACtQ/nARzrLiAaNc/s1600/bcn+city+of+ships+1.10.11.jpeg)
 
