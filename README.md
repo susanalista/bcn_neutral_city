@@ -7,7 +7,7 @@
 ### Data Sources:
 [BCN Open Data](https://opendata-ajuntament.barcelona.cat/en)
 
-[Statistics Department (Ajuntament de Barcelona](https://www.bcn.cat/estadistica/angles/index.htm)
+[Statistics Department (Ajuntament de Barcelona)](https://www.bcn.cat/estadistica/angles/index.htm)
 
 ### Datasets
 
