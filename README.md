@@ -40,3 +40,5 @@ There is a problem with dates. These data is registrered in separate columns for
 Due to the considerable amount of NaN values, the solution is to fill the next following value with the same number, since a 0 would be "no pollution" and it wouldn't be real.
 
 After all the cleaning, the 2 csv files are ready for Tableau Visualization.
+
+[Tableau Slides Sample](https://ja.cat/tableau_slides) 
