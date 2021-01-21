@@ -41,4 +41,4 @@ Due to the considerable amount of NaN values, the solution is to fill the next f
 
 After all the cleaning, the 2 csv files are ready for Tableau Visualization.
 
-[Tableau Slides Sample](https://ja.cat/tableau_slides) 
+[Project Presentation Video](https://ja.cat/dataviz_project_susanna) 
