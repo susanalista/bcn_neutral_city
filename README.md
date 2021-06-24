@@ -42,3 +42,5 @@ Due to the considerable amount of NaN values, the solution is to fill the next f
 After all the cleaning, the 2 csv files are ready for Tableau Visualization.
 
 [Project Presentation Video](https://ja.cat/dataviz_project_susanna) 
+
+[Tableau Visualization](https://public.tableau.com/views/AirQualityinTouristicHighSeason2019-2020/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
